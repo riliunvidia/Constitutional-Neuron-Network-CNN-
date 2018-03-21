@@ -1,2 +1,2 @@
-# Constitutional-Neuron-Network-CNN-
+# Convolutional-Neuron-Network-CNN-
 # basic convolutional neuron network code
